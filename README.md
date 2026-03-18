@@ -1,5 +1,4 @@
 # GCI Final Project
-GCI Final Project
 A GCI Final Assignment for completion of Global Consumer Intelligence Course 2025. Our purpose of this project to addressed critical HR challenges including limited advancement opportunities, poor work-life balance, and ineffective leadership — identified as primary drivers of employee attrition. Led a data-driven initiative to analyze and predict employee attrition across consumer industries, leveraging machine learning to help organizations reduce turnover and improve long-term workforce planning.
 
 What I done was:
